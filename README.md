@@ -19,4 +19,4 @@ Companies coverd:
 Tool used:
 - Microsoft Power BI
 
-![Sales_Dashboard](sales_dashboard.png)
+![Sales_Dashboard](Sales_Dashboard.png)
