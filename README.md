@@ -20,4 +20,5 @@ Tool used:
 - Microsoft Power BI
 
 Dashboard Preview:
+
 ![Sales_Dashboard](Sales-Dashboard.png)
