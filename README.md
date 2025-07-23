@@ -21,4 +21,3 @@ Tool used:
 
 
 
-![Sales_Dashboard](Sales_Dashboard.png)
