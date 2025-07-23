@@ -21,6 +21,9 @@ Companies coverd:
 Tool used:
 - Microsoft Power BI
 
+The data used in this dashboard is based on the tutorial:
+https://www.youtube.com/watch?v=nkmHqs1I_z0
+
 
 Dashboard Preview:
 
