@@ -1,5 +1,7 @@
 # Power-Bi-Sales-Dashboard
 I created an interactive Sales Dashboard to visualize and analyze comapny performance accros the United States.
+To open and explore this Power BI dashboard, please install Power BI Desktop.
+
 It include:
 - Company revenue
 - Monthly income
