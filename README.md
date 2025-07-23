@@ -4,7 +4,7 @@ It include:
 - Company revenue
 - Monthly income
 - Total income
-- Sum of revenue by region
+- Sum of revenue by region                                            
 - Sum of units sold
 - Average of price per unit
 
@@ -18,5 +18,7 @@ Companies coverd:
 
 Tool used:
 - Microsoft Power BI
+
+
 
 ![Sales_Dashboard](Sales_Dashboard.png)
